@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://sapnadorbi:sapnadorbi@devconnector-vfufa.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken",
+	"githubClientId": "27ea274c6dfcc4c22cf7",
+	"githubSecret": "a565906b2a086b5d708b507fc0d69f39e31d9404"
+}
